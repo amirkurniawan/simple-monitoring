@@ -2,7 +2,7 @@
 
 Setup basic monitoring dashboard menggunakan Netdata untuk memantau kesehatan sistem secara real-time.
 
-Project reference: [roadmap.sh/projects/simple-monitoring](https://roadmap.sh/projects/simple-monitoring)
+Project reference: [roadmap.sh/projects/simple-monitoring](https://roadmap.sh/projects/simple-monitoring-dashboard)
 
 ---
 
